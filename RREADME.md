@@ -4,7 +4,7 @@
 A simple GitHub Pages-based wiki website.
 
 ## Live Site
-https://moekyawaung-mm.github.io/Wiki/
+https://moekyawaung-mm.github.io/Wiki/ 
 
 ## Features
 - Static wiki pages
